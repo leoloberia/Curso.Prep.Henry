@@ -1,0 +1,11 @@
+Variables: son formas de almacenar valores a algo. Estos valores pueden ser numericos, booleanos y strings.
+
+Strings: es una cadena o bloque de caracteres (letras, numeros, simbolos). Se declaran entre comillas. Por ejemplo: 'ejercicio'
+
+Funciones: son una parte de un programa que realiza una tarea especifica y que puede utilizarse mas de una vez llamandosela por su nombre. 
+Las funciones tienen un argumento, declarado dentro de parentesis, que puede contener variables que se utilizaran dentro de la misma.
+La funcion tiene como finalidad, retornar el resultado de la operacion que se le ha encomendado realizar. Para esto, se usa "return", el cual hara que la funcion nos de un valor determinado
+
+Declaraciones if: la declaracion "if" antecede a una condicion y se utiliza para evaluar la misma. Si se cumple, ejecutara un bloque de instrucciones. Si no se cumple, se ejecutaran otras sentencias
+
+Valores booleanos: los valores booleanos son "true" y "false". Se utiliza true(verdadero) para señalar cuando se cumple una condicion y false (falso) cuando no se cumple la misma
