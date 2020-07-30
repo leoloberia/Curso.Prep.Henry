@@ -1,0 +1,7 @@
+For: For es un bucle que nos permite ejecutar determinada instruccion si se cumple la condicion establecida declarada entre parentesis
+
+&&: Es un operador logico, tambien llamado "and" o "y", el cual teniendo dos condiciones o mas, ejecutara cierta instruccion solo si las dos son verdaderas. En caso contrario, no se ejecutara.
+
+||: Es un operador logico, tambien llamado "or" o "o". Al igual que el operador "&&", compara las condiciones dadas, pero con la diferencia de que ejecutara una instruccion si una de las dos condiciones es verdadera
+
+!: Es un operador logico de negacion, el cual invertira el valor logico de una declaracion 
